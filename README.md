@@ -1,0 +1,2 @@
+# CoreProject
+C Training
